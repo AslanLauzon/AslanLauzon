@@ -3,7 +3,7 @@ Mechanical Engineering @ Queen's University
 
 
 ## Projects
-- **Hybrid Rocket Engine**: Leading propulsion with [QRET](https://github.com/Queen-s-Rocket-Engineering-Team)
+- **Hybrid Rocket Engine**: Leading [propulsion](https://www.youtube.com/watch?v=eTMeKiwZGKU) with [QRET](https://github.com/Queen-s-Rocket-Engineering-Team)
 - **Auto-Tracking Telescope**: 6-inch reflector for astrophotography.
 - **Measuring Supersonic Velocity**: Custom pitot tube for measuring supersonic flow
 
