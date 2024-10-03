@@ -1,10 +1,6 @@
 ## Aslan Lauzon
 Mechanical Engineering @ Queen's University
 
-## Interests
-- Rocket engineering and competition participation
-- Telescope design for astrophotography
-- Automation using Python and C/C++
 
 ## Projects
 - **Hybrid Rocket Engine**: Leading propulsion with [@queensRocketEngineeringTeam](https://github.com/Queen-s-Rocket-Engineering-Team)
