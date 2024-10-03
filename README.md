@@ -7,7 +7,7 @@ Mechanical Engineering @ Queen's University
 - Automation using Python and C/C++
 
 ## Projects
-- **Hybrid Rocket Engine**: Designs for competitions.
+- **Hybrid Rocket Engine**: Leading propulsion with [@queensRocketEngineeringTeam](https://github.com/Queen-s-Rocket-Engineering-Team)
 - **Auto-Tracking Telescope**: 6-inch reflector for astrophotography.
 
 ## Contact
